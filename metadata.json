@@ -1,0 +1,7 @@
+{
+  "name": "Colorful Roulette Pro",
+  "description": "A high-performance, visually stunning roulette application with realistic physics, custom items, and celebratory sound effects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
